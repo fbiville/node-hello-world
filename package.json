@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/fbiville/node-hello-world.git"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "keywords": [
     "hello",
     "world"
