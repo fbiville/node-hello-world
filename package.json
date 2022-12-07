@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/fbiville/node-hello-world#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
